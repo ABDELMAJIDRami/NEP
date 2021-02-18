@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/ABDELMAJIDRami.github.io/NEP/static/css/main.98273902.chunk.css",
+    "main.js": "/ABDELMAJIDRami.github.io/NEP/static/js/main.ade358bb.chunk.js",
+    "main.js.map": "/ABDELMAJIDRami.github.io/NEP/static/js/main.ade358bb.chunk.js.map",
+    "runtime-main.js": "/ABDELMAJIDRami.github.io/NEP/static/js/runtime-main.0ed23299.js",
+    "runtime-main.js.map": "/ABDELMAJIDRami.github.io/NEP/static/js/runtime-main.0ed23299.js.map",
+    "static/js/2.30c7fd03.chunk.js": "/ABDELMAJIDRami.github.io/NEP/static/js/2.30c7fd03.chunk.js",
+    "static/js/2.30c7fd03.chunk.js.map": "/ABDELMAJIDRami.github.io/NEP/static/js/2.30c7fd03.chunk.js.map",
+    "static/js/3.282876b0.chunk.js": "/ABDELMAJIDRami.github.io/NEP/static/js/3.282876b0.chunk.js",
+    "static/js/3.282876b0.chunk.js.map": "/ABDELMAJIDRami.github.io/NEP/static/js/3.282876b0.chunk.js.map",
+    "index.html": "/ABDELMAJIDRami.github.io/NEP/index.html",
+    "static/css/main.98273902.chunk.css.map": "/ABDELMAJIDRami.github.io/NEP/static/css/main.98273902.chunk.css.map",
+    "static/js/2.30c7fd03.chunk.js.LICENSE.txt": "/ABDELMAJIDRami.github.io/NEP/static/js/2.30c7fd03.chunk.js.LICENSE.txt",
+    "static/media/books.8949b331.png": "/ABDELMAJIDRami.github.io/NEP/static/media/books.8949b331.png",
+    "static/media/brand-logo@2x.35a2d574.png": "/ABDELMAJIDRami.github.io/NEP/static/media/brand-logo@2x.35a2d574.png",
+    "static/media/group-of-people.6e4a375e.png": "/ABDELMAJIDRami.github.io/NEP/static/media/group-of-people.6e4a375e.png",
+    "static/media/mentor-abdullah-2.1610b7a7.png": "/ABDELMAJIDRami.github.io/NEP/static/media/mentor-abdullah-2.1610b7a7.png",
+    "static/media/mentor-abdullah.1610b7a7.png": "/ABDELMAJIDRami.github.io/NEP/static/media/mentor-abdullah.1610b7a7.png",
+    "static/media/mentor-hessa-2.56e83d17.png": "/ABDELMAJIDRami.github.io/NEP/static/media/mentor-hessa-2.56e83d17.png",
+    "static/media/mentor-hessa.56e83d17.png": "/ABDELMAJIDRami.github.io/NEP/static/media/mentor-hessa.56e83d17.png",
+    "static/media/mentor-ohoud-2.23314a41.png": "/ABDELMAJIDRami.github.io/NEP/static/media/mentor-ohoud-2.23314a41.png",
+    "static/media/mentor-ohoud.23314a41.png": "/ABDELMAJIDRami.github.io/NEP/static/media/mentor-ohoud.23314a41.png",
+    "static/media/mentor-sheikh-abdullah-2.d0b24215.png": "/ABDELMAJIDRami.github.io/NEP/static/media/mentor-sheikh-abdullah-2.d0b24215.png",
+    "static/media/mentor-sheikh-abdullah.d0b24215.png": "/ABDELMAJIDRami.github.io/NEP/static/media/mentor-sheikh-abdullah.d0b24215.png",
+    "static/media/participant-afra-2.a38c65b9.png": "/ABDELMAJIDRami.github.io/NEP/static/media/participant-afra-2.a38c65b9.png",
+    "static/media/participant-afra.a38c65b9.png": "/ABDELMAJIDRami.github.io/NEP/static/media/participant-afra.a38c65b9.png",
+    "static/media/participant-hassan-2.d92c4d14.png": "/ABDELMAJIDRami.github.io/NEP/static/media/participant-hassan-2.d92c4d14.png",
+    "static/media/participant-hassan.d92c4d14.png": "/ABDELMAJIDRami.github.io/NEP/static/media/participant-hassan.d92c4d14.png",
+    "static/media/participant-khalifa-2.1dd29a91.png": "/ABDELMAJIDRami.github.io/NEP/static/media/participant-khalifa-2.1dd29a91.png",
+    "static/media/participant-khalifa.1dd29a91.png": "/ABDELMAJIDRami.github.io/NEP/static/media/participant-khalifa.1dd29a91.png",
+    "static/media/participant-salwa-2.6ac4f915.png": "/ABDELMAJIDRami.github.io/NEP/static/media/participant-salwa-2.6ac4f915.png",
+    "static/media/participant-salwa.6ac4f915.png": "/ABDELMAJIDRami.github.io/NEP/static/media/participant-salwa.6ac4f915.png",
+    "static/media/success-plan.d837e106.png": "/ABDELMAJIDRami.github.io/NEP/static/media/success-plan.d837e106.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ed23299.js",
+    "static/js/2.30c7fd03.chunk.js",
+    "static/css/main.98273902.chunk.css",
+    "static/js/main.ade358bb.chunk.js"
+  ]
+}
