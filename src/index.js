@@ -13,7 +13,7 @@ ReactDOM.render(
     <React.StrictMode>
         <ThemeProvider theme={theme}>
             <CssBaseline />
-            <BrowserRouter>
+            <BrowserRouter basename="/NEP">
                 <App />
             </BrowserRouter>
         </ThemeProvider>
