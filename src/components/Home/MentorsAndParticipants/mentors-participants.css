@@ -1,0 +1,53 @@
+.parent {
+    position: relative;
+}
+
+.img-hoc {
+    position: relative;
+    width: 220px;
+    height: 220px;
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.hide {
+    display: none;
+    position: absolute;
+}
+
+.layer {
+    top: 0;
+    opacity: 0.3;
+    width: 100%;
+    height: 100%;
+}
+
+.info {
+    right: 0;
+    top: 248px;
+    z-index: 20;
+    width: 912px;
+    height: 232px;
+    padding: 28px 50px 24px;
+}
+
+
+.img-hoc:hover .hide {
+    display: block;
+}
+
+.img-hoc:hover + .title-green {
+    color: #12a5b5;
+}
+
+.img-hoc:hover + .title-orange {
+    color: #ff7d5e;
+}
+
+.img-hoc:hover ~ .hide:nth-child(3) {
+    display: block;
+}
